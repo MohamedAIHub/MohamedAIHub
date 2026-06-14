@@ -1,93 +1,158 @@
-<h1 align="center">Hi 👋, I'm Mohamed</h1>
-<h3 align="center">🚀 AI Engineer | Python Developer | Building Intelligent Systems</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineer;Python+Developer;Machine+Learning+Enthusiast;Data+Science+Explorer;Building+Intelligent+Systems" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:06B6D4&text=Mohamed%20AI%20Engineer&fontColor=ffffff&fontSize=48&fontAlignY=40"/>
+
+# 🤖 Mohamed | AI Engineer
+
+### Machine Learning • Deep Learning • Computer Vision • LLMs
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=850&lines=AI+Engineer;Python+Developer;Machine+Learning+Enthusiast;Deep+Learning+Practitioner;Building+Real-World+AI+Solutions"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=MohamedAIHub\&style=for-the-badge\&color=blue)
+![Followers](https://img.shields.io/github/followers/MohamedAIHub?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/MohamedAIHub?affiliations=OWNER\&style=for-the-badge)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-🔹 Passionate about Artificial Intelligence and Data Science
+```python
+class MohamedAIEngineer:
 
-🔹 Building Machine Learning & Deep Learning Projects
+    def __init__(self):
+        self.name = "Mohamed"
+        self.role = "AI Engineer"
+        self.language = "Python"
 
-🔹 Exploring LLMs and Generative AI
+        self.interests = [
+            "Machine Learning",
+            "Deep Learning",
+            "Computer Vision",
+            "Natural Language Processing",
+            "Generative AI",
+            "Large Language Models"
+        ]
 
-🔹 Learning MLOps & AI Deployment
+        self.currently_learning = [
+            "RAG Systems",
+            "AI Agents",
+            "MLOps",
+            "Production AI"
+        ]
 
-🔹 Open to Collaboration on AI Projects
+    def mission(self):
+        return "Turning data into intelligent solutions"
+
+me = MohamedAIEngineer()
+print(me.mission())
+```
+
+🚀 Passionate about Artificial Intelligence and solving real-world problems through data-driven solutions.
+
+🎯 Focus Areas:
+
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* NLP & LLM Applications
+* Generative AI
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Programming
+
+Python • SQL
 
 ### Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+Pandas • NumPy • Matplotlib
 
 ### Machine Learning
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+
+Scikit-Learn
 
 ### Deep Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
+
+TensorFlow • PyTorch
+
+### Generative AI
+
+OpenAI • LangChain • Hugging Face
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+Git • GitHub • Docker • VS Code
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedAIHub&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAIHub&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=MohamedAIHub&theme=tokyonight" />
-</p>
+| Project                     | Description                           |
+| --------------------------- | ------------------------------------- |
+| 🤖 AI Chatbot               | Intelligent chatbot using NLP         |
+| 🏠 House Price Prediction   | Machine learning regression model     |
+| 👁️ Computer Vision System  | Image classification project          |
+| 📊 Data Analytics Dashboard | Data visualization and insights       |
+| 🧠 RAG Assistant            | Retrieval-Augmented Generation system |
 
 ---
 
-## 🤖 Featured Areas
+## 📈 GitHub Stats
 
-✅ Machine Learning
+<div align="center">
 
-✅ Deep Learning
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedAIHub&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-✅ Computer Vision
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAIHub&layout=compact&theme=tokyonight&hide_border=true"/>
 
-✅ Natural Language Processing
-
-✅ Data Analysis
-
-✅ Generative AI
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🔥 Contribution Streak
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+<div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+<img src="https://streak-stats.demolab.com?user=MohamedAIHub&theme=tokyonight&hide_border=true"/>
 
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=MohamedAIHub&color=blue)
+</div>
 
 ---
 
-<h3 align="center">⭐ Turning Data Into Intelligent Solutions ⭐</h3>
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MohamedAIHub&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+## 📜 Certifications
+
+🚀 Currently pursuing AI, Machine Learning and Deep Learning certifications.
+
+---
+
+## 🎯 Goals
+
+* Build 10+ AI Projects
+* Master LLM Applications
+* Learn MLOps
+* Contribute to Open Source
+* Deploy Production AI Systems
+
+---
+
+<div align="center">
+
+### ⭐ Turning Data Into Intelligent Solutions
+
+*"The future belongs to those who build intelligent systems."*
+
+</div>
