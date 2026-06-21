@@ -8,9 +8,19 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=850&lines=AI+Engineer;Python+Developer;Machine+Learning+Enthusiast;Deep+Learning+Practitioner;Building+Real-World+AI+Solutions"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MohamedAIHub\&style=for-the-badge\&color=blue)
-![Followers](https://img.shields.io/github/followers/MohamedAIHub?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/MohamedAIHub?affiliations=OWNER\&style=for-the-badge)
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,docker,git,github,vscode" />
+</p>
+
+<h3 align="center">
+🧠 Machine Learning • 🤖 Deep Learning • 👁️ Computer Vision • 💬 LLMs • 🚀 Generative AI
+</h3>
+
+<p align="center">
+🚀 Building AI Solutions | 📚 Learning RAG & AI Agents | 🌍 Open Source Enthusiast
+</p>
 
 </div>
 
